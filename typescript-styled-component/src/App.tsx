@@ -9,8 +9,8 @@ export default function App() {
 
   return (
     <div className="App">
-      <Title>Hello CodeSandbox</Title>
-      <h2>Start editing to see some magic happen!</h2>
+      <Title>Hello Clap</Title>
+      <h2>Start Coding!!</h2>
     </div>
   );
 }
