@@ -1,0 +1,10 @@
+{
+  "name": "clap-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "songhoyun <itlockit@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^5.0.0"
+  }
+}
