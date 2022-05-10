@@ -11,7 +11,9 @@ function App() {
   return (
     <div className="App">
       <input type="text" value={value} onChange={handleChange} />
-      <button onClick={handleStart}>게임시작</button>
+      <button className="start-button" onClick={handleStart}>
+        게임시작
+      </button>
       <div className="player-container"></div>
     </div>
   );
