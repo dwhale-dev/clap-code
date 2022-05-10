@@ -1,23 +1,18 @@
-import logo from "./logo.svg";
+import { useState } from "react";
 import "./App.css";
 
 function App() {
+  const [value, setValue] = useState();
+
+  const handleStart = () => {};
+
+  const handleChange = () => {};
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <input type="text" value={value} onChange={handleChange} />
+      <button onClick={handleStart}>게임시작</button>
+      <div className="player-container"></div>
     </div>
   );
 }
