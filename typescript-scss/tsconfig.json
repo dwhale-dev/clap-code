@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "../three-six-nine/src/reportWebVitals copy.ts"  ]
 }
