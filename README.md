@@ -1,10 +1,20 @@
 # D.Whale 프론트엔드 코딩테스트
 
+D.Whale 프론트엔드 코딩테스트를 위한 repository 입니다.
 
-사용하기 편한 css 전처리기 및 프레임워크를 선택하여 테스트를 진행할 수 있습니다.
 
-### scss(sass) : [typescript-scss](https://github.com/dwhale-dev/clap-code/tree/main/typescript-scss)
+# Getting Started with Create React App
 
-### styled component : [typescript-styled-component](https://github.com/dwhale-dev/clap-code/tree/main/typescript-styled-component)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### tailwind CSS : [typescript-tailwind](https://github.com/dwhale-dev/clap-code/tree/main/typescript-tailwind)
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
