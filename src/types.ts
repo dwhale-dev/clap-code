@@ -1,4 +1,4 @@
-export interface Response {
+export interface ApiResponse {
   results: Result[]
   info: Info
 }
